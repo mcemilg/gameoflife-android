@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <color name="game_background">#55CCFF</color>
+        <color name="menu_background">#1e90ff</color>
+        <color name="high_background">#0099cc</color>   
+        <color name="cellcolor">#B2FFDC</color>
+       
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Game Of Life</string>
+    <string name="title_activity_main">Game Of Life</string>
+    <string name="null_username">Please Enter Username</string>
+    <string name="title_activity_game">Game </string>
+    
+    <string name="action_next">Next</string>
+    <string name="action_play">Play</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_save">Save</string>
+    <string name="action_load">Load</string>
+    
+    <string name="title_activity_high_score">High Score</string>
+
+     
+</resources>

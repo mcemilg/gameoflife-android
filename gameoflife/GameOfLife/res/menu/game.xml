@@ -1,0 +1,38 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.mcg.gameoflife.GameActivity" >
+	
+    <item android:id="@+id/action_play"
+      android:icon="@drawable/ic_action_play"
+      android:title="@string/action_play"
+      app:showAsAction="ifRoom"		/>
+    
+    <item android:id="@+id/action_pause"
+      android:icon="@drawable/ic_action_pause"
+      android:title="@string/action_pause"
+      app:showAsAction="ifRoom"		/>
+             
+    <item
+      android:id="@+id/action_next"
+      android:icon="@drawable/ic_action_next"
+      android:title="@string/action_next"
+      app:showAsAction="ifRoom"/>
+    
+    <item android:id="@+id/action_reset"
+      android:icon="@drawable/ic_action_backspace"
+      android:title="@string/action_reset"
+      app:showAsAction="ifRoom"		/>
+     
+    <item android:id="@+id/action_save"
+      android:icon="@drawable/ic_action_save"
+      android:title="@string/action_save"
+      app:showAsAction="ifRoom"		/>
+     
+    <item android:id="@+id/action_load"
+      android:icon="@drawable/ic_action_upload"
+      android:title="@string/action_load"
+      app:showAsAction="ifRoom"		/>
+
+
+</menu>
